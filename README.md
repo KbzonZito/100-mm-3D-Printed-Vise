@@ -1,4 +1,4 @@
-# Impresion-3D
+# Prensa de banco
 The part below corresponds to a bench vise, which is used to clamp another part that needs to be subjected to some procedure, for example, drilling, filing, milling, etc.
 Our bench vise has a jaw opening of 100 millimeters. In addition, it consists of 8 parts:
 -	Base body.
